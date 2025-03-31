@@ -1,0 +1,6 @@
+aiogram
+openai
+pandas
+fuzzywuzzy
+python-Levenshtein
+xlrd
