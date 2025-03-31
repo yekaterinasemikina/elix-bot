@@ -3,4 +3,4 @@ openai
 pandas
 fuzzywuzzy
 python-Levenshtein
-xlrd
+xlrd==2.0.1
