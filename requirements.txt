@@ -4,3 +4,4 @@ pandas
 fuzzywuzzy
 python-Levenshtein
 xlrd==2.0.1
+openpyxl
